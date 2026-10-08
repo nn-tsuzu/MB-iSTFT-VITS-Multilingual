@@ -1,5 +1,4 @@
 import re, unicodedata, regex
-from langdetect import detect
 
 # English
 def US_English_converter(text):
